@@ -1,8 +1,48 @@
-- 👋 Hi, I’m @ANUJMATHUR2005
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+# 👋 Hi there, I'm Anuj Mathur
 
-<!---
-ANUJMATHUR2005/ANUJMATHUR2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🧠 Python Enthusiast | 🗣️ AI Explorer | 🎮 Tech Lover
+
+---
+
+I'm a 19-year-old aspiring developer currently pursuing my degree in Bachelor of Computer Application (BCA) and diving deep into **Python**, **AI**, and **Web Development**. I love building practical projects and turning ideas into real code that works.
+
+---
+
+## 💼 Projects I'm Proud Of
+
+### 🧠 [Jarvis: Voice Assistant AI](https://github.com/ANUJMATHUR2005/AI-JARVIS-)
+> A desktop voice assistant built using Python that can perform tasks like opening websites, playing YouTube videos, reading from the web, and even generating AI responses — built in a virtual environment with the help of ChatGPT.
+
+---
+
+## 🧰 Languages & Tools
+
+- 🐍 Python
+- 💻 HTML / CSS / JS (Learning)
+- 🎯 Git & GitHub
+- 📦 Virtual Environments
+- 🛠️ VS Code
+- 🤖 AI Libraries (g4f, langdetect, pyttsx3, etc.)
+
+---
+
+## 🚀 Learning & Goals
+
+- Master **Python backend development**
+- Explore **AI & machine learning**
+- Contribute to open-source projects
+- Build smart automation tools and apps
+
+---
+
+## 🧠 Fun Fact
+
+This GitHub journey is powered by curiosity, late-night coding, and occasional help from **AI assistants like ChatGPT** 😉
+
+---
+
+## 📬 Let's Connect!
+
+- 📧 Email: mathuranuj335@gmail.com
+- 🔗 [GitHub](https://github.com/ANUJMATHUR2005)
+- 🧠 Learning every day. Creating with code.
