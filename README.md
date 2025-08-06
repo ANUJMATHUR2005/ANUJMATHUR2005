@@ -34,13 +34,6 @@ I'm a 19-year-old aspiring developer currently pursuing my degree in Bachelor of
 - Build smart automation tools and apps
 
 ---
-
-## 🧠 Fun Fact
-
-This GitHub journey is powered by curiosity, late-night coding, and occasional help from **AI assistants like ChatGPT** 😉
-
----
-
 ## 📬 Let's Connect!
 
 - 📧 Email: mathuranuj335@gmail.com
